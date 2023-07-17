@@ -1,6 +1,6 @@
-// to create random button press use random module
+// to create a random button press use the random module
 //we have to use some array to store the seq
-//to change headind use some variable count
+//to change heading,we have to  use some variable count
 var colors=["red","blue","green","yellow"];
 var pattern=[];
 var userChosenpattern=[];
