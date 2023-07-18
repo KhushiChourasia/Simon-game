@@ -69,7 +69,7 @@ function checkans(idx){
     
     else{
         $("h1").text("Game over!!Press any key to start over");
-        var beep=new Audio("./sounds/wrong.mp3");
+        var beep=new Audio("./wrong.mp3");
         beep.play();
        
         $("body").addClass("game-over");
